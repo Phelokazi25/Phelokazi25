@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Phelokazi25
 - 👀 I’m interested in maths and computing
 - 🌱 I’m currently studying Bsc in applied statistical science
-- 💞️ I’m looking to collaborate on java programming
+- 💞️ I’m looking to collaborate on java programming codes
 - 📫 How to reach me via email petshephelisa@gmail.com
 
 <!---
